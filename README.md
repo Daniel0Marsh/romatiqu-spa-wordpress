@@ -1,3 +1,25 @@
+# Romatique
+
+**Type:** Service Business / Local Business / Spa & Wellness
+**Live URL:** [https://example.com](https://example.com)
+
+## Site Overview
+
+**Description:**  
+Romatique is a refined beauty spa website designed to present a calming and professional online presence for a local wellness business. The site introduces visitors to the spa’s ethos through its elegant About page, outlines the available Services — including massages, facials, and pedicures — and provides an easy way for clients to get in touch via the Contact page. All bookings are made directly over the phone, reflecting the spa’s personalized and customer-focused approach.
+
+**Pages Preview:**
+
+- **Home**  
+  ![Home Page](media/home.png)
+
+- **About**  
+  ![About Page](media/about.png)
+
+- **Services**  
+  ![Services Page](media/services.png)
+
+---
 # WordPress + MySQL Docker Setup
 
 This guide helps you quickly set up a new WordPress project with MySQL using Docker Compose.
